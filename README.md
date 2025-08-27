@@ -50,7 +50,7 @@ The application follows a structured pipeline to process and visualize audio:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/ayu-shhhh/SimpleAudioVisualiser.git](https://github.com/ayu-shhhh/SimpleAudioVisualiser.git)
+    git clone https://github.com/ayu-shhhh/SimpleAudioVisualiser.git
     cd SimpleAudioVisualiser
     ```
 
@@ -74,3 +74,4 @@ This project serves as a strong foundation for more advanced applications in sig
 * **Interactive Controls:** Creating tools for music production or remixing that provide insights into spectral characteristics.
 * **Hardware Integration:** Building music-controlled lighting systems that react to the frequency data of the audio.
 * **API Integration:** Connecting with streaming services like Spotify or YouTube to visualize music directly from the source.
+
